@@ -1,0 +1,22 @@
+{
+  "name": "jestdemo",
+  "version": "1.0.0",
+  "description": "jest practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedmax100/JestDemo.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "nathan.lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedmax100/JestDemo/issues"
+  },
+  "homepage": "https://github.com/tedmax100/JestDemo#readme"
+}
